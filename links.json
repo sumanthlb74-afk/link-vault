@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1792845729414",
+    "originalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd6bEznrgBTuideIBtARfrlZfZ8_1edRJNetj_hANZdfvbWIg/viewform",
+    "shortCode": "dh",
+    "clicks": 1,
+    "userEmail": "sumanth@gmail.com",
+    "createdAt": "2026-10-24T12:42:09.414Z"
+  },
+  {
+    "_id": "1792845183833",
+    "originalUrl": "https://www.youtube.com/",
+    "shortCode": "bu",
+    "clicks": 1,
+    "userEmail": "sumanth@gmail.com",
+    "createdAt": "2026-10-24T12:33:03.833Z"
+  },
+  {
+    "_id": "1792825506257",
+    "originalUrl": "https://www.youtube.com/",
+    "shortCode": "yubh",
+    "clicks": 1,
+    "userEmail": "sumanthlb74@gmail.com",
+    "createdAt": "2026-10-24T07:05:06.257Z"
+  },
+  {
+    "_id": "1792820571965",
+    "originalUrl": "https://www.google.com",
+    "shortCode": "obnbh2",
+    "clicks": 2,
+    "userEmail": "guest@linkvault.com",
+    "createdAt": "2026-10-24T05:42:51.965Z"
+  },
+  {
+    "_id": "1792820398032",
+    "originalUrl": "https://www.google.com",
+    "shortCode": "my-gooogle",
+    "clicks": 0,
+    "userEmail": "sumanthlb74@gmail.com",
+    "createdAt": "2026-10-24T05:39:58.032Z"
+  },
+  {
+    "_id": "1792820346768",
+    "originalUrl": "https://www.google.com",
+    "shortCode": "my-google",
+    "clicks": 1,
+    "userEmail": "sumanthlb74@gmail.com",
+    "createdAt": "2026-10-24T05:39:06.768Z"
+  }
+]
